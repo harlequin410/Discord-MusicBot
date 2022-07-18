@@ -30,8 +30,8 @@ module.exports = {
   // The default one should work fine, altho if you have issue with it, you can create your own or use another public lavalink.
   Lavalink: {
     id: "Main", //- Used for indentifier. You can set this to whatever you want.
-    host: "lavalink.rukchadisa.live", //- The host name or IP of the lavalink server.
-    port: 8080, // The port that lavalink is listening to. This must be a number!
+    host: "95.214.52.241", //- The host name or IP of the lavalink server.
+    port: 1623, // The port that lavalink is listening to. This must be a number!
     pass: "youshallnotpass", //- The password of the lavalink server.
     secure: false, // Set this to true if the lavalink uses SSL. if not set it to false.
   },
