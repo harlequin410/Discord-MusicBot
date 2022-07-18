@@ -33,7 +33,7 @@ module.exports = {
     host: "lavalink.oops.wtf", //- The host name or IP of the lavalink server.
     port: 443, // The port that lavalink is listening to. This must be a number!
     pass: "www.freelavalink.ga", //- The password of the lavalink server.
-    secure: false, // Set this to true if the lavalink uses SSL. if not set it to false.
+    secure: true, // Set this to true if the lavalink uses SSL. if not set it to false.
   },
 
   //Please go to https://developer.spotify.com/dashboard/
